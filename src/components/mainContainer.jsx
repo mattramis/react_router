@@ -1,8 +1,8 @@
 import React from "react";
 import { Routes, Route } from "react-router-dom";
 import Home from "./home";
-import Red from "./Red";
-import Blue from "./Blue";
+import Red from "./red";
+import Blue from "./blue";
 
 export default function MainContainer() {
   return (
